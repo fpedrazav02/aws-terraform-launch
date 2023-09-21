@@ -1,7 +1,7 @@
 provider "aws" {
     region      = "us-east-1"
-    access_key  = "AKIAVJ7KRH6GBH7DC55B"
-    secret_key  = "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"
+    access_key  = "AKIAVJ7K******"
+    secret_key  = "1iNr***************"
 }
 
 resource "aws_security_group" "SecurityFwRules" {
